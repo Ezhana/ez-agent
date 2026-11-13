@@ -1,5 +1,5 @@
 ---
-name: my-skill
+name: ez-agent
 description: Apply my personal software engineering methodology to software development tasks, including requirements clarification, architecture and technical design, implementation, coding conventions, refactoring, code review, and frontend-BFF contract design. Use when creating, modifying, reviewing, or designing software.
 ---
 
