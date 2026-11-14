@@ -4,7 +4,7 @@
 
 ## 使用方式
 
-> 本项目符合标准 [Agent Skills](agentskills.io) 规范
+> 本项目符合标准 [Agent Skills](https://agentskills.io) 规范
 
 1. 安装后重启或重新加载对应 Agent。
 2. 让 Agent 列出已发现的 Skills，确认加载情况。
