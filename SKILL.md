@@ -28,6 +28,7 @@ Read the corresponding reference document before doing the relevant work:
 | Collaboration, clarification, and design-first workflow | `references/collaboration.md` |
 | Architecture, responsibility boundaries, and technical decisions | `references/technical-design.md` |
 | Naming, comments, and language conventions | `references/engineering-style.md` |
+| Frontend layout, styling, accessibility, component design, state management, and responsive development | `references/frontend-engineering.md` |
 | Implementation and verification policy | `references/implementation.md` |
 | Refactoring and compatibility policy | `references/refactoring.md` |
 | Reviewing code and reporting findings | `references/code-review.md` |
